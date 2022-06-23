@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/html-3776AB?style=for-the-badge&logo=html&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/html-2496ED?style=for-the-badge&logo=html&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 ![21900646's github stats](https://github-readme-stats.vercel.app/api?username=21900646&show_icons=true&hide_border=true)
 </br>
